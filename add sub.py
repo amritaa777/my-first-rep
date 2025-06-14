@@ -75,3 +75,4 @@ for i in range(2,n+1):
     s=s+a
 print("SUM",s+1)
 print('hello')
+print("Iam a student")
